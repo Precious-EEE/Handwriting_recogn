@@ -1,0 +1,25 @@
+{
+    "name": "logistic_regression",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Precious-EEE"
+    },
+    "author": "solygambas",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Precious-EEE"
+    },
+    "homepage": "https://github.com/Precious-EEE",
+    "dependencies": {
+      "@tensorflow/tfjs": "^3.11.0",
+      "lodash": "^4.17.11",
+      "memoize": "^0.1.1",
+      "mnist-data": "^1.2.6",
+      "nodeplotlib": "^0.7.6",
+      "shuffle-seed": "^1.1.6"
+    }
+  }
